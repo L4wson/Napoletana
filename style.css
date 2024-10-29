@@ -1,6 +1,11 @@
 body {
     background-color: #121212;
     color: #ffffff;
+    font-family: Lata, sans-serif;
+    
+    h1{
+        text-align: center;
+    }
 }
 
 a {
@@ -8,7 +13,7 @@ a {
 }
 
 button {
-    background-color: #333333;
+    background-color: #ffffff;
     color: #ffffff;
     border: 1px solid #444444;
 }
